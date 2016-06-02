@@ -1,0 +1,27 @@
+{
+  "name": "webpack1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liudl",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.13.1",
+    "react-dom": "0.14.7"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7"
+  },
+  "description": ""
+}
